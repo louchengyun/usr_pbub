@@ -8,3 +8,5 @@ git reset --hard 分知名
 git push --force origin master
 //
 
+6.第五条无效，在远程修改后，在本地重新git pull
+
